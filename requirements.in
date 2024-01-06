@@ -1,0 +1,12 @@
+fastapi
+httpx
+itsdangerous
+litestar
+motor
+pydantic[email]
+pymongo
+python-bsonjs
+python-dotenv
+requests
+twine
+uvicorn==0.24.0
